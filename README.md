@@ -349,7 +349,7 @@ It combines prompt optimization, model-aware strategies, live simulation, and co
 
 ## 👨‍💻 Author
 
-Created by **sayalll**.
+Created by **sayal**.
 
 GitHub:
 
